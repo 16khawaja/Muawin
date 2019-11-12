@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911396768563",
+    "firebase_url": "https://muawin-fyp.firebaseio.com",
+    "project_id": "muawin-fyp",
+    "storage_bucket": "muawin-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911396768563:android:93eaec580b21613e3fcc46",
+        "android_client_info": {
+          "package_name": "folk.com.example.folk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911396768563-6tvng0ttdk1lujnin1hk4e87peuf3osu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKS95Ke7Ey7PQPp7bwliEdagcDIufmEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911396768563-6tvng0ttdk1lujnin1hk4e87peuf3osu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
